@@ -3,7 +3,7 @@ title: ServoDevelop Wiki
 description: 总线舵机与机器人技术文档中心
 
 # 启用专业 Wiki 主题
-remote_theme: just-the-docs/just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 
 # 搜索配置
 search_enabled: true
