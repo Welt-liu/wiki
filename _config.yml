@@ -1,0 +1,15 @@
+# 网站基本信息
+title: ServoDevelop Wiki
+description: 总线舵机与机器人技术文档中心
+
+# 启用 Just the Docs 远程主题 (最适合做 Wiki)
+remote_theme: just-the-docs/just-the-docs
+
+# 启用内置搜索功能
+search_enabled: true
+search:
+  tokenizer: separator
+  separator: '[\s\-\/]+'
+
+# 辅色设置（可选）
+color_scheme: dark # 如果喜欢深色模式可开启
